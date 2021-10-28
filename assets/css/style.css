@@ -9,7 +9,7 @@ body {
 .content {
     background: #FFFF;
     border-radius: 15px;
-    box-shadow: 0px 0px 10px 5px #00000036;
+    box-shadow: 0px 0px 50px 1px #000000bd;
     top: 0;
 }
 #hero-section {
@@ -112,19 +112,22 @@ body {
 }
 
 #footer {
-  border-top-left-radius: 15px;
-  border-top-right-radius: 15px;
-  border-top: 1px solid #8d8d8d;
-  position: fixed;
-  padding: 5px 0;
-  bottom: 0;
-  width: 100%;
-  margin: auto;
-  background: #ebf1ff;
-  text-align: center; }
-  #footer p {
-    display: inline; }
-  #footer a {
-    text-decoration: none; }
-
-/*# sourceMappingURL=style.css.map */
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    border-top: 1px solid #8d8d8d;
+    position: fixed;
+    padding: 5px 0;
+    bottom: 0;
+    width: 100%;
+    margin: auto;
+    background: #ebf1ff;
+    text-align: center;
+    p {
+        display: inline;
+    }
+    a {
+        text-decoration: none;
+    }
+}
+  
+  
