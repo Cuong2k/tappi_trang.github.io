@@ -79,6 +79,7 @@ body {
     transition: 0.3s all ease-in-out; }
     #contact-section .list-menu img {
       max-width: 35px;
+      max-height: 35px;
       margin-right: 15px;
       border-radius: 50%; }
     #contact-section .list-menu span {
